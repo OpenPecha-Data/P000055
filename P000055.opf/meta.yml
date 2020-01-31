@@ -1,0 +1,38 @@
+ebook_metadata:
+  title: ༄༅། །རྒྱལ་བསྟན་འཛམ་བུའི་གླིང་དུ་ཇི་ལྟར་དར་བའི་རིམ་པར་ཕྱེ་བ། །
+  authors:
+  - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
+  sku: RDI-TOK-04-1
+  layers:
+  - book_title
+  - author
+  - chapter_title
+  - tsawa
+  - quotation
+  - sabche
+web_metadata:
+  title:
+    en: A Systematic Presentation of How Buddhism Spread in the World
+    bo: རྒྱལ་བསྟན་འཛམ་བུའི་གླིང་དུ་ཇི་ལྟར་དར་བའི་རིམ་པར་ཕྱེ་བ།
+  collection:
+    en: Treasury of Knowledge–  Book 4
+    bo: ཤེས་བྱ་ཀུན་ཁྱབ་མཛོད།–  དེབ། ༤
+  author:
+    en: Jamgon Kongtrul Lodro Thaye
+    bo: འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
+  pusblisher:
+    en: Rigpe Dorje Institute
+    bo: རིག་པའི་རྡོ་རྗེ་གཙུག་ལག་སློབ་ཉེར་ཁང་།
+  sku: RDI-TOK-04-1
+  category:
+    en: History
+    bo: ལོ་རྒྱུས།
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: RDI-TOK-04-1.epub
+  description:
+    en: ཤེས་བྱ་ཀུན་ཁྱབ་མཛོད། གནས་བཞི་པ།
+    bo: ཤེས་བྱ་ཀུན་ཁྱབ་མཛོད། གནས་བཞི་པ།
