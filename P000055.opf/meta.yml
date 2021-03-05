@@ -1,8 +1,9 @@
-ebook_metadata:
+id: P000055
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །རྒྱལ་བསྟན་འཛམ་བུའི་གླིང་དུ་ཇི་ལྟར་དར་བའི་རིམ་པར་ཕྱེ་བ། །
   authors:
   - མཛད་པ་པོ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
-  sku: RDI-TOK-04-1
   layers:
   - book_title
   - author
@@ -10,6 +11,7 @@ ebook_metadata:
   - tsawa
   - quotation
   - sabche
+  id: RDI-TOK-04-1
 web_metadata:
   title:
     en: A Systematic Presentation of How Buddhism Spread in the World
